@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmed Soliman
 - 👀 I’m interested in web developing spacially frontend developing
-- 🌱 I’m currently learning more about front end tools
-- 💞️ I’m looking for a job as a front developer.
+- 🌱 I’m currently learning more about fullstack developing tools
+- 💞️ I’m looking for a job as a frontend developer.
 - 📫 How to reach me?!
 My mail: ahmedsoliman9977@gmail.com,
 Phone number:+201156646277.
